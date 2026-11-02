@@ -37,3 +37,15 @@ This project uses a synthetic medical insurance dataset containing 1,338 records
 
 ## Author
 Harmanjit Singh Cheema
+
+
+## Project Visualizations
+
+### Insurance Charges Distribution
+![Insurance Distribution](insurance_distribution.png)
+
+### Charges by Smoking Status
+![Smoking Charges](smoking_charges.png)
+
+### Model Performance Comparison
+![Model Comparison](model_comparison.png)
