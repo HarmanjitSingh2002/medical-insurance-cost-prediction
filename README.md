@@ -31,7 +31,9 @@ jupyter notebook medical_insurance_prediction.ipynb
 Keep `insurance.csv` in the same folder as the notebook.
 
 ## Dataset notice
-The included CSV is a **synthetic practice dataset** created for this recreated portfolio project. It has 1,338 rows and 7 columns, contains no real personal or medical records, and is not the original dataset from the earlier college assignment. Model results are generated when the notebook runs and may differ from previous assignment results.
+**Dataset Information**
+
+This project uses a synthetic medical insurance dataset containing 1,338 records and 7 features for machine learning practice and model evaluation.
 
 ## Author
 Harmanjit Singh Cheema
